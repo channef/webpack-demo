@@ -1,2 +1,3 @@
-import  './index.css'
-export default css
+import './index.less'
+import './style.styl'
+export default 'css'
